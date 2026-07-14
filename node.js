@@ -23,7 +23,7 @@
 //         console.error("3333")
 //     }
 // }
-// methode fetch
+// // methode fetch
 // async function prixBitcoin() {
 //     try {
 //         const prix = await fetch(`https://blockchain.info/ticker`);
@@ -36,10 +36,10 @@
 // prixBitcoin();
 
 
-// methode Axios 
+// // methode Axios 
 
 
-// On importe la librairie Axios
+// // On importe la librairie Axios
 // const axios = require("axios");
 
 
@@ -75,9 +75,6 @@
 // // Exécution de la fonction
 // getPost();
 
-// const axios = require("axios");
-
-
 // async function afficherUsers() {
 
 //     try {
@@ -111,8 +108,6 @@
 
 
 // afficherUsers();
-
-// const axios = require("axios");
 
 
 // async function gestionErreurs() {
@@ -157,9 +152,6 @@
 // gestionErreurs();
 
 
-// const axios = require("axios");
-
-
 // async function envoieUser() {
 
 
@@ -198,9 +190,6 @@
 
 
 // envoieUser();
-
-// const axios = require("axios");
-
 
 // async function getUser(id) {
 
@@ -243,9 +232,6 @@
 
 
 // getUser(3);
-
-// const axios = require("axios");
-
 
 // async function recupererPosts() {
 
